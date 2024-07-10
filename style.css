@@ -88,5 +88,11 @@ color: rgb(117, 134, 148);
     width: auto;
 }
 
+@media (max-width: 451px) {
+    .profile-img{
+        width: 100%;
+    }
+}
+
 
   
